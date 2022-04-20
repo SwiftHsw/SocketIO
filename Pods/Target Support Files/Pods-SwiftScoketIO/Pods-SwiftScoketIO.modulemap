@@ -1,0 +1,6 @@
+framework module Pods_SwiftScoketIO {
+  umbrella header "Pods-SwiftScoketIO-umbrella.h"
+
+  export *
+  module * { export * }
+}

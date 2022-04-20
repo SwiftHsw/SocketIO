@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SwiftScoketIO/Pods-SwiftScoketIO-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KakaJSON/KakaJSON.framework
+${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

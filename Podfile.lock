@@ -1,0 +1,36 @@
+PODS:
+  - KakaJSON (1.1.2)
+  - PromiseKit (6.17.0):
+    - PromiseKit/CorePromise (= 6.17.0)
+    - PromiseKit/Foundation (= 6.17.0)
+    - PromiseKit/UIKit (= 6.17.0)
+  - PromiseKit/CorePromise (6.17.0)
+  - PromiseKit/Foundation (6.17.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.17.0):
+    - PromiseKit/CorePromise
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - KakaJSON (= 1.1.2)
+  - PromiseKit
+  - Socket.IO-Client-Swift (= 15.2.0)
+
+SPEC REPOS:
+  trunk:
+    - KakaJSON
+    - PromiseKit
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+  PromiseKit: 996202d4cae72b7801b312abef4cd2f995b2978a
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 39c010763506216ea90ec13b43d14fcb55a4dceb
+
+COCOAPODS: 1.11.3
